@@ -1,0 +1,5 @@
+# Exported apps contain customer config, lookups and possibly secrets.
+apps-*/
+*.tgz
+_export_results.json
+__pycache__/
